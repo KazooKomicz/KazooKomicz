@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my education through LETU EDU
-- 🌱 I’m currently learning how to use Computer Graphics with WebGL and JavaScript
 - 👯 I’m looking to collaborate on any experience I can get
 - 🤔 I’m looking for help with keeping to good coding practices
 - 💬 Ask me about how to learn any coding language with a simple base program
